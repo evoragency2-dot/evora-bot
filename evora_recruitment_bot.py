@@ -141,7 +141,7 @@ REJECTION_TEMPLATE = (
     f"- {BOT_NAME}"
 )
 
-DISCORD_LINK = "https://discord.gg/t5MU8bb7D"
+DISCORD_LINK = "https://evoragency2-dot.github.io/join/"
 
 ACCEPTED_TEXT = (
     "✅ *Congratulations, you passed the first step!*\n\n"
